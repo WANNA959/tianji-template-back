@@ -9,15 +9,23 @@ $yellow:#FEC171;
 $panGreen: #30B08F;
 
 // sidebar
-$menuText:#bfcbd9;
-$menuActiveText:#409EFF;
-$subMenuActiveText:#f4f4f5; // https://github.com/ElemeFE/element/issues/12951
+//$menuText:#bfcbd9;
+$menuText:#606463;
+//$menuActiveText:#409EFF;
+$menuActiveText:#098231;
 
-$menuBg:#304156;
-$menuHover:#263445;
+//$subMenuActiveText:#f4f4f5; // https://github.com/ElemeFE/element/issues/12951
+$subMenuActiveText:#098231; // https://github.com/ElemeFE/element/issues/12951
 
-$subMenuBg:#1f2d3d;
-$subMenuHover:#001528;
+//$menuBg:#304156;
+$menuBg:#FFFFFF;
+//$menuHover:#FFFFFF;
+$menuHover:#30B08F;
+
+$subMenuBg:#FFFFFF;
+//$subMenuBg:#08979c;
+//$subMenuHover:#001528;
+$subMenuHover:#30B08F;
 
 $sideBarWidth: 210px;
 
